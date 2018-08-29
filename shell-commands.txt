@@ -1,0 +1,15 @@
+#
+# Which shell is used 
+#
+~/projects/git-work (master) $ echo $0
+-bash
+
+~/projects/git-work (mster) $ zsh
+~/projects/git-work [master] ?? % echo $0
+zsh
+
+#
+# delete directory
+#
+~/projects $ rm -rf git-work
+
