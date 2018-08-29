@@ -8,6 +8,10 @@
 ~/projects/git-work [master] ?? % echo $0
 zsh
 
+~/projects/git-work [master] ?? % exit
+~/projects/git-work (master) $ echo $0
+-bash
+
 #
 # delete directory
 #
