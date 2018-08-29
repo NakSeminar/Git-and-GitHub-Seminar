@@ -19,9 +19,3 @@ fi
 precmd () { vcs_info }
 PROMPT='%F{5}[%F{2}%n%F{5}] %F{3}%3~ ${vcs_info_msg_0_} %f%# '
 
-
-
-
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/Users/clemensfsietas/.sdkman"
-[[ -s "/Users/clemensfsietas/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/clemensfsietas/.sdkman/bin/sdkman-init.sh"
