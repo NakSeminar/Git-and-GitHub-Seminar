@@ -1,4 +1,4 @@
-Unterschied zwischen merge und rebase ist, steht hier:
+Unterschied zwischen merge und rebase steht hier:
 
 https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase/16666418#16666418
 
