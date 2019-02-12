@@ -1,0 +1,11 @@
+
+
+Tower Videos
+https://www.git-tower.com/learn/git/videos
+
+Tower Help
+https://www.git-tower.com/help/mac
+
+Tower Cheat Sheet
+https://downloads.git-tower.com/content/cheatsheet-tower.zip
+
