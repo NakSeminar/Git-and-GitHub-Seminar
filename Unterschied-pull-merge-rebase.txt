@@ -1,0 +1,13 @@
+
+git pull = git fetch + git merge
+
+git pull --rebase = git fetch + git rebase
+
+Unterschied zwischen merge und rebase steht hier:
+
+https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase/16666418#16666418
+
+https://github.com/NakSeminar/Git-and-GitHub-Seminar/blob/master/url-references/difference-git-merge-and-rebase.txt
+
+
+
