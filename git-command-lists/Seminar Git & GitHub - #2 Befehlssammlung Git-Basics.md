@@ -1,5 +1,8 @@
 # Seminar: Git & GitHub - Befehlssammlung "Git-Basics"
 
+## Wichtig
+Das ist mir persönlich sehr wichtig
+
 ## Projektlose Befehle
 * ``git --version`` Zeigt die aktuelle Git-Version an. Gut um zu testen, ob Git installiert und aufrufbar ist.
 * ``git config --list`` Zeigt die aktuellen Konfigurationsoptionen an.
