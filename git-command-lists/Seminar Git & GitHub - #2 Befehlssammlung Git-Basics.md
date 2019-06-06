@@ -7,7 +7,7 @@
 * ``git config --global user.email "<user-email-here>"`` Setzt die globale E-Mail-Adresse, die beim Commit verwendet wird. (Hieran wird auch in GitHub/GitLab der Avatar festgemacht.)
 * ``git config --global --unset user.name`` Löscht den global eingetragenen Konfigurationseintrag von ``user.name``.  
 aus welcher der 3 config-Dateien kommen die Konfigurationen
-* ``git config --list --show-origin
+* git config --list --show-origin
   
 ## Wichtigste Befehle in einem Projekt
 * ``git init`` Legt im aktuellen Ordner ein neues (lokales) Git-Repository an.
