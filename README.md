@@ -1,10 +1,11 @@
 # Git-and-GitHub-Seminar
-Supporting documents and information for the Git and GitHub seminar
 
+Supporting documents and information for the Git and GitHub seminar.
 
 1. Clone das repository nak-repo eines anderen Teilnehmers 
    in das eigene lokale Verzeichnis nak-task
 
+   ```bash
    ~/projects $ git clone https://github.com/NakTNYyyXxx/nak-repo.git nak-task
    
    Cloning into 'nak-task'...
@@ -13,6 +14,7 @@ Supporting documents and information for the Git and GitHub seminar
    
    ~/projects $ cd nak-task
    ~/projects/nak-task (master) $
+   ```
    
 2. Gegenseitige Berechtigung als Collaborator
 
