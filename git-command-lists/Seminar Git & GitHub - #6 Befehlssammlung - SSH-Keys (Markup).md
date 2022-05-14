@@ -7,8 +7,8 @@
 >``Enter file in which to save the key (/home/ubuntu/.ssh/id_rsa):``<br>
 >``/home/ubuntu/.ssh/id_rsa already exists.``<br>
 >``Overwrite (y/n)? y`` <== nur überschreiben, wenn alte Key nicht mehr nötig<br>
->``Enter passphrase (empty for no passphrase):`` <== nur Enter drücken<br>
->``Enter same passphrase again:`` <== kein Passwort eingeben<br>
+>``Enter passphrase (empty for no passphrase):`` <== Ein gutes Passwort eingeben und merken/aufschreiben<br>
+>``Enter same passphrase again:`` <== Dasselbe Passwort erneut eingeben<br>
 >``Your identification has been saved in /home/ubuntu/.ssh/id_rsa.``<br>
 >``Your public key has been saved in /home/ubuntu/.ssh/id_rsa.pub.``<br>
 
@@ -18,7 +18,7 @@
 * ``$ ssh-add ~/.ssh/id_rsa``
 ## 4) Den public key anzeigen
 * ``$ cat ~/.ssh/id_rsa.pub``
-## 5) Um die Verbindung per ssh-keys zu nutzen, muss ein Repository per ssh geclont werden.
+## 5) Um die Verbindung per ssh-keys zu nutzen, muss ein Repository per ssh geclont werden, bei Abfrage des Passwort dieses eintippen.
 * ``git clone ssh://git@github.com/NakSeminar/nak-seminar-base.git``
 ## 6) Testen der SSH-Verbindung (wenn erfolgreich, ist das auf GitHub zu erkennen)
 * ``$ ssh -T git@github.com``
